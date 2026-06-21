@@ -61,7 +61,7 @@
 <td width="3%"></td>
 <td width="94%" valign="top" align="center">
 
-I'm a 19-something **AI Product Developer** studying **BTech IT** at **LDRP Institute of Technology &amp; Research**, Gandhinagar.
+I'm a 20-something **AI Product Developer** studying **BTech IT** at **LDRP Institute of Technology &amp; Research**, Gandhinagar.
 I don't wait around for the perfect plan — I **build** the thing, **break** it on purpose, **fix** what cracks, and **ship** it.
 Lately every free cycle goes into the **WOLF** product line: AI-powered, full-stack, and actually in people's hands.
 

@@ -61,7 +61,7 @@
 <td width="3%"></td>
 <td width="94%" valign="top" align="center">
 
-I'm a 20-something **AI Product Developer** studying **BTech IT** at **LDRP Institute of Technology &amp; Research**, Gandhinagar.
+I'm a 19-something **AI Product Developer** studying **BTech IT** at **LDRP Institute of Technology &amp; Research**, Gandhinagar.
 I don't wait around for the perfect plan — I **build** the thing, **break** it on purpose, **fix** what cracks, and **ship** it.
 Lately every free cycle goes into the **WOLF** product line: AI-powered, full-stack, and actually in people's hands.
 
@@ -285,14 +285,6 @@ A Windows app that computes the **fewest college days** you need to stay above t
   height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxpatel235&layout=compact&hide_border=true&langs_count=8&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6"
   alt="top languages"
-/>
-
-<br/>
-<br/>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=daxpatel235&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title_color=64FFDA&text_color=CCD6F6"
-  alt="trophies"
 />
 
 </div>

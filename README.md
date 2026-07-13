@@ -106,7 +106,7 @@ Lately every free cycle goes into the **WOLF** product line: AI-powered, full-st
 <td width="24%" align="right" valign="middle">&nbsp;<b>⟶&nbsp; Languages</b></td>
 <td width="3%"></td>
 <td width="73%" align="left" valign="middle">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="languages" />
 </td>
 </tr>
 <tr><td colspan="3" height="14"></td></tr>
@@ -124,7 +124,7 @@ Lately every free cycle goes into the **WOLF** product line: AI-powered, full-st
 <td width="24%" align="right" valign="middle">&nbsp;<b>⟶&nbsp; Backend &amp; Data</b></td>
 <td width="3%"></td>
 <td width="73%" align="left" valign="middle">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="backend" />
 </td>
 </tr>
 <tr><td colspan="3" height="14"></td></tr>
@@ -137,8 +137,9 @@ Lately every free cycle goes into the **WOLF** product line: AI-powered, full-st
   <img height="34" src="https://img.shields.io/badge/RAG-0B3D2E?style=for-the-badge&logo=databricks&logoColor=64FFDA" alt="rag" />
   <img height="34" src="https://img.shields.io/badge/Vector_Search-0A192F?style=for-the-badge&logo=mongodb&logoColor=38BDF8" alt="vector" />
   <img height="34" src="https://img.shields.io/badge/REST_API-0B3D2E?style=for-the-badge&logo=fastapi&logoColor=64FFDA" alt="rest" />
-  <img height="34" src="https://img.shields.io/badge/PyInstaller-0A192F?style=for-the-badge&logo=python&logoColor=38BDF8" alt="pyinstaller" />
-  <img height="34" src="https://img.shields.io/badge/Render-0B3D2E?style=for-the-badge&logo=render&logoColor=64FFDA" alt="render" />
+  <img height="34" src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="docker" />
+  <img height="34" src="https://img.shields.io/badge/PyInstaller-0B3D2E?style=for-the-badge&logo=python&logoColor=64FFDA" alt="pyinstaller" />
+  <img height="34" src="https://img.shields.io/badge/Render-0A192F?style=for-the-badge&logo=render&logoColor=38BDF8" alt="render" />
 </td>
 </tr>
 </table>
@@ -251,6 +252,43 @@ A Windows app that computes the **fewest college days** you need to stay above t
 <br/>
 
 <img height="40" src="https://img.shields.io/badge/%E2%AC%A4%20%20WINDOWS%20APP-0B3D2E?style=for-the-badge&logoColor=64FFDA&labelColor=0A192F" alt="windows app" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ── PANEL 04 ── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0A3D62,100:0B3D2E&text=04%20%E2%80%94%20AssetFlow%20%E2%80%94%20ODOO%20HACKATHON%202026&fontColor=64FFDA&fontSize=17&fontAlignY=64&section=header" alt="AssetFlow" />
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="3%"></td>
+<td width="64%" valign="top">
+
+<br/>
+
+**Enterprise asset &amp; resource management platform.** &nbsp;`Built @ Odoo Hackathon 2026`
+
+Full-stack ERP for hardware inventory, resource bookings, maintenance lifecycles and compliance audits. A **single-mutation API** (`POST /api/actions`) with **Zod-validated, RBAC-gated** logic wrapped in Prisma `$transaction`, a **Postgres-backed** 15-model schema, QR-driven audit cycles, and PDF/Excel report exports — all running **fully local**, no cloud dependency.
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js_15-0A192F?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B3D2E?style=flat-square&logo=typescript&logoColor=64FFDA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_18-0A192F?style=flat-square&logo=postgresql&logoColor=38BDF8)
+![Prisma](https://img.shields.io/badge/Prisma_5-0B3D2E?style=flat-square&logo=prisma&logoColor=64FFDA)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A192F?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-0B3D2E?style=flat-square&logo=docker&logoColor=64FFDA)
+
+</td>
+<td width="3%"></td>
+<td width="27%" valign="middle" align="center">
+
+<br/>
+
+<img height="40" src="https://img.shields.io/badge/%F0%9F%8F%86%20%20HACKATHON%20BUILD-0B3D2E?style=for-the-badge&logoColor=64FFDA&labelColor=0A192F" alt="hackathon build" />
 
 </td>
 </tr>
